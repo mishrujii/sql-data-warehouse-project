@@ -29,5 +29,5 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## About ME
+## About Me
 Hi there! I'm **Aman Kumar Mishra**, also known as **mishrujii**. I'm an IT graduate passionate about learning and technology. I'm on a mission to become the best IT engineer out there.
