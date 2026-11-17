@@ -14,7 +14,7 @@ Parameters:
     This stored procedure does not accept any parameters or return any values.
 
 Usage Example:
-    EXEC silver.laod_proc
+    EXEC silver.load_silver
 */
 
 CREATE OR ALTER PROC silver.load_proc
