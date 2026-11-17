@@ -15,6 +15,7 @@ Parameters:
 
 Usage Example:
     EXEC silver.load_silver
+=================================================================================
 */
 
 CREATE OR ALTER PROC silver.load_silver
