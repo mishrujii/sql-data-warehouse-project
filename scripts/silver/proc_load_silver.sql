@@ -17,7 +17,7 @@ Usage Example:
     EXEC silver.load_silver
 */
 
-CREATE OR ALTER PROC silver.load_proc
+CREATE OR ALTER PROC silver.load_silver
 AS
 BEGIN
 	DECLARE @batch_start_time DATETIME, @batch_end_time DATETIME, @start_time DATETIME, @end_time DATETIME;
